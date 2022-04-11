@@ -1,0 +1,60 @@
+.home{
+    width: 1280px;
+    height: 600px;
+    flex-wrap: wrap;
+    background-color: #121214;
+    border-radius: 10px;
+    margin: 0 auto;
+    font-family: 'IBM Plex Sans';
+}
+figure{
+    margin: 0 auto;
+    width: 229px;
+    height: 68px;
+    padding: 20px 0 50px 0;
+}
+
+.box{
+    width: 160px;
+    border-radius: 15px;
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.principal{
+    margin-bottom: 50px;
+}
+
+.conteiner{
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 80px;
+}
+
+button{
+    width: 206px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1.5px solid #ffff;
+    color: white;
+    background-color: #121214;
+}
+.btn button:hover{  
+    background-color: white;
+    color: #121214;
+}
+
+p{
+    font-size: 12px;
+}
